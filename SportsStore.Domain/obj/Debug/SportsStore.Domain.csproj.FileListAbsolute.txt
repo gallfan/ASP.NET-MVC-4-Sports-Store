@@ -16,3 +16,5 @@ C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Web
 C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Francis\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml

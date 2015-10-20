@@ -12,7 +12,7 @@ namespace SportsStore.Domain.Entities
         public string Name  { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
-        public int Catergory { get; set; }
+        public string Catergory { get; set; }
      
     }
 }
