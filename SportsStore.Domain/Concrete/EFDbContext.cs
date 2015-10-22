@@ -25,17 +25,17 @@ namespace SportsStore.Domain.Concrete
             List<Product> products = new List<Product>() 
             {
                 new Product(){Name="Soccer ball",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"},
-                new Product(){Name="Gaelic ball",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Basket ball",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Cue ball",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
+                new Product(){Name="Lifejacket",Description="Protective and fashionable",Price=35.99m,Catergory="Watersports"}, 
+                new Product(){Name="Kayak",Description="Boat for one person",Price=275.00m,Catergory="Watersports"}, 
+                new Product(){Name="Cue ball",Description="Offical World Cup Ball",Price=19.99m,Catergory="Watersports"}, 
                 new Product(){Name="Soccer hat",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
                 new Product(){Name="Corner flags",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
                 new Product(){Name="Board game",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Cones",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Gloves",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Whistles",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"}, 
-                new Product(){Name="Liverpool Jersey",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"},
-                new Product(){Name="Football boots",Description="Offical World Cup Ball",Price=19.99m,Catergory="Soccer"} 
+                new Product(){Name="Cones",Description="Offical World Cup Ball",Price=19.99m,Catergory="Chess"}, 
+                new Product(){Name="Gloves",Description="Offical World Cup Ball",Price=19.99m,Catergory="Chess"}, 
+                new Product(){Name="Whistles",Description="Offical World Cup Ball",Price=19.99m,Catergory="Chess"}, 
+                new Product(){Name="Liverpool Jersey",Description="Offical World Cup Ball",Price=19.99m,Catergory="Chess"},
+                new Product(){Name="Football boots",Description="Offical World Cup Ball",Price=19.99m,Catergory="Chess"} 
             };
 
             foreach(Product p in products)
